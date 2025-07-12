@@ -1,6 +1,8 @@
 PenPalette - Blog Platform
 Welcome to PenPalette, a place to explore, create, and share your amazing blog posts! Whether you're an aspiring writer or an avid reader, this platform provides a smooth and intuitive user experience. Below are the deployment guidelines, project requirements, and instructions for setting up and using PenPalette.
 
+Live link: https://stunning-gumption-53af0c.netlify.app/ 
+
 🚀 Deployment Guideline
 To ensure the smooth deployment and avoid any issues, please follow these guidelines carefully:
 
